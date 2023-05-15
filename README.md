@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garcia7adri
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning more about Python, SQL and Data Management.
 - 💞️ I’m looking to collaborate on any project related to Data Science.
 - 📫 How to reach me garcia7adri@gmail.com
 
